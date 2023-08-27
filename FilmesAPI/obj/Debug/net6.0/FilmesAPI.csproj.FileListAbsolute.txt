@@ -52,3 +52,5 @@ C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\F
 C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\FilmesAPI\FilmesAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\FilmesAPI\FilmesAPI\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\FilmesAPI\FilmesAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
