@@ -58,3 +58,5 @@ C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\F
 C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.xml
+C:\Users\edson\OneDrive\Área de Trabalho\Alura\Criando uma web API\Nova pasta\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml
