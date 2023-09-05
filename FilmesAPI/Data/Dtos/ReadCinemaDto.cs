@@ -9,6 +9,6 @@ namespace FilmesAPI.Data.Dtos
 
         public string Nome { get; set; }
 
-        public ReadCinemaDto ReadEnderecoDto { get; set; }
+        public ReadEnderecoDto Endereco { get; set; }
     }
 }
