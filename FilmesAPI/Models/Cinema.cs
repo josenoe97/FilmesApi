@@ -16,5 +16,7 @@ namespace FilmesAPI.Models
         public virtual Endereco Endereco { get; set; } // isto diz que é uma relação de possui apenas um endereço 1:1 
         // gera um instancia Possibilitando puxar logradoura e numero
 
+        public virtual ICollection<Sessao> Sessoes { get; set; }
+
     }
 }
