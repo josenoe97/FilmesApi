@@ -8,8 +8,7 @@ public class Sessao
     [Required]
     public int Id { get; set; }
 
-    [Required]
-    public int FilmeId { get; set; }
+    public int? FilmeId { get; set; }
     
     public virtual Filme Filme { get; set; }//uma sessao pode ter um filme
     
