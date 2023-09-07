@@ -24,6 +24,12 @@ public class FilmeContext : DbContext
             .HasOne(sessao => sessao.Filme)
             .WithMany(filme => filme.Sessoes)
             .HasForeignKey(sessao => sessao.FilmeId);
+
+        builder.Entity<Endereco>()
+            .HasOne(endereco => endereco.Cinema)
+            .WithOne(cinema => cinema.Endereco)
+            .OnDelete(DeleteBehavior.Restrict); // redefiniu o padrão que é cascata para restric,
+                                                // isso gera um dependencia menor ao deletar um obj de uma class
     }
 
     public DbSet<Filme> Filmes { get; set; }
